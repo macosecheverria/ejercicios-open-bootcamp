@@ -1,0 +1,11 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "primera prueba ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node.js"
+  },
+  "author": "marcos echeverria",
+  "license": "ISC"
+}
